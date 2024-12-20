@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2,
+    "companyName": "Green Tech Solutions",
+    "employees": [
+      {
+        "name": "Frank Black",
+        "position": "Chief Technology Officer"
+      },
+      {
+        "name": "Grace Kim",
+        "position": "Software Developer"
+      },
+      {
+        "name": "Henry Ford",
+        "position": "Marketing Specialist"
+      },
+      {
+        "name": "Isla Brown",
+        "position": "QA Engineer"
+      },
+      {
+        "name": "Jack Davis",
+        "position": "Cloud Architect"
+      }
+    ],
+    "location": "San Francisco, USA"
+  }
+]
